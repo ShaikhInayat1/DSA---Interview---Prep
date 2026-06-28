@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0507-perfect-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
