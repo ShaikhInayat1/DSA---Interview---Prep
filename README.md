@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0507-perfect-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
