@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1518-water-bottles) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1518-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
