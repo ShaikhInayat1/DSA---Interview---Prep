@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
