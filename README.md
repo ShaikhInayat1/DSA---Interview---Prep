@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
