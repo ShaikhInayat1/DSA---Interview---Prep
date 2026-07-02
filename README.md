@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0443-string-compression) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0443-string-compression) |
 | [3163-string-compression-iii](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3163-string-compression-iii) |
