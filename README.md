@@ -62,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0443-string-compression) |
+| [3163-string-compression-iii](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3163-string-compression-iii) |
 <!---LeetCode Topics End-->
