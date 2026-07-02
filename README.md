@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
