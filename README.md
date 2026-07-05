@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
