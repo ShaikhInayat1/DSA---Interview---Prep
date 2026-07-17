@@ -8,14 +8,15 @@ class Solution {
 
         int step1 = 1;
         int step2 = 2;
+        int result = 0;
 
         for(int i = 3; i <= n; i++){
 
-            int step3 = step1 + step2;
+            result = step1 + step2;
             step1 = step2;
-            step2 = step3;
+            step2 = result;
         }
 
-        return step2;
+        return result;
     }
 }
