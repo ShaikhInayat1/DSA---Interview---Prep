@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0319-bulb-switcher) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
