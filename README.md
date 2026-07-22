@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0152-maximum-product-subarray) |
 ## Memoization
 |  |
 | ------- |
