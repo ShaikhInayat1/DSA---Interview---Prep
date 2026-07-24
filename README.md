@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
