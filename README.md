@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
