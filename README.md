@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0728-self-dividing-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3028-ant-on-the-boundary](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3028-ant-on-the-boundary) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -139,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
