@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1518-water-bottles) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
