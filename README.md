@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
