@@ -2,15 +2,14 @@ class Solution {
     public boolean isPalindrome(int x) {
         
         int rev = 0;
-        int n = x;
+        int original = x;
 
-        while(n > 0){
+        while(x > 0){
 
-            int digit = n % 10;
+            int digit = x % 10;
             rev = (rev * 10) + digit;
-            n /= 10;
+            x /= 10;
         }
-
-            return rev == x;
+            return rev == original;
     }
 }
