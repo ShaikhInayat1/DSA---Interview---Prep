@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
