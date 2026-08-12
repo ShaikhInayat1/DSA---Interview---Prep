@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -162,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
