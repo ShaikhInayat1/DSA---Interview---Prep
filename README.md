@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3028-ant-on-the-boundary](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3028-ant-on-the-boundary) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
 | ------- |
