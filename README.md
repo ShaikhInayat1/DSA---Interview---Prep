@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0796-rotate-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
