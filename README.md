@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
 | [3028-ant-on-the-boundary](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0643-maximum-average-subarray-i) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
