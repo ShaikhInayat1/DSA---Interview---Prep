@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2574-left-and-right-sum-differences](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
