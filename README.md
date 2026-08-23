@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0344-reverse-string) |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
