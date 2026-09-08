@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0643-maximum-average-subarray-i) |
+| [0881-boats-to-save-people](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0020-valid-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ShaikhInayat1/DSA---Interview---Prep/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
