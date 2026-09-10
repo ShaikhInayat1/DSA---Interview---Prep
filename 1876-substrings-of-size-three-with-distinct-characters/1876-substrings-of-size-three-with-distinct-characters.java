@@ -11,10 +11,9 @@ class Solution {
 
             if(a != b && b != c && a != c){
 
-                count ++;
+                count++;
             }
         }
-        
             return count;
     }
 }
